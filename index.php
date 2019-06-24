@@ -1,0 +1,1 @@
+<?php header('Location: /index.html'); ?> <!-- Ésta es una línea php que es un redireccionamiento del fichero php al fichero index de la raíz  -->
